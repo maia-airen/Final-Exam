@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     }));
                     
                     alert('Login successful!');
-                    window.location.href = 'index.html'; // Changed comment to match actual redirect
+                    window.location.href = 'dashboard.html'; // Redirect to dashboard
                     break;
                 }
             }

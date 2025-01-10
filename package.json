@@ -1,0 +1,13 @@
+{
+    "name": "final-exam",
+    "version": "1.0.0",
+    "description": "Final Exam Project",
+    "scripts": {
+      "lint": "eslint .",
+      "validate": "html-validator-cli ./register.html"
+    },
+    "devDependencies": {
+      "eslint": "^8.42.0",
+      "html-validator-cli": "^7.0.1"
+    }
+  }
